@@ -1,5 +1,5 @@
 - 👋 So apaixonado por tecnologia
-- 💻 Desenvolvedor Full Stack Web, Mobile e Desktop
+- 💻 Desenvolvedor Full Stack. Desktop, Web e Mobile
 - 💼 Empreendedor - Nested Development
 - 🤔 "Ou você tem uma estratégia ou será parte da estratégia de alguém"
 - 🎓 Software Engineer 3/8
