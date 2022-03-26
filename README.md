@@ -2,7 +2,7 @@
 - 💻 Desenvolvedor Full Stack. Desktop, Web e Mobile
 - 💼 Empreendedor - Nested Development
 - 🤔 "Ou você tem uma estratégia ou será parte da estratégia de alguém"
-- 🎓 Software Engineer 4/8
+- 🎓 Software Engineer 5/8
 - 📫 Me siga no instagram: @viinicius_santoos linkedin: vinicius-santos-carneiro
 
 <!---
