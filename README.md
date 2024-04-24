@@ -1,8 +1,8 @@
 - 👋 Sou apaixonado por tecnologia
-- 💻 Desenvolvedor Full Stack. Desktop, Web e Mobile
+- 💻 Desenvolvedor Full Stack
 - 💼 Empreendedor - Nested Development
 - 🤔 "Ou você tem uma estratégia ou será parte da estratégia de alguém"
-- 🎓 Software Engineer 6/8
+- 🎓 Engenheiro de Software
 - 📫 Me siga no instagram: @viinicius_santoos linkedin: vinicius-santos-carneiro
 
 <!---
