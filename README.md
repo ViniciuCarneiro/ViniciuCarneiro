@@ -1,10 +1,6 @@
-# Olá, seja bem-vindo(a) ao meu GitHub!
-# Hello, welcome to my GitHub!
-# ¡Hola, bienvenido(a) a mi GitHub!
-
----
-
 ## Português
+
+# Olá, seja bem-vindo(a) ao meu GitHub!
 
 ### Quem sou eu?
 Olá, meu nome é **Vinicius Santos Carneiro**. Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade de código aberto.
@@ -26,6 +22,8 @@ Minha missão é transformar desafios em soluções tecnológicas inovadoras, ga
 
 ## English
 
+# Hello, welcome to my GitHub!
+
 ### Who am I?
 Hello, my name is **Vinicius Santos Carneiro**. I am a developer passionate about creating innovative and efficient solutions. Here you will find some of my projects and contributions to the open-source community.
 
@@ -46,6 +44,8 @@ My mission is to transform challenges into innovative technological solutions, e
 ---
 
 ## Español
+
+# ¡Hola, bienvenido(a) a mi GitHub!
 
 ### ¿Quién soy yo?
 Hola, mi nombre es **Vinicius Santos Carneiro**. Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. Aquí encontrarás algunos de mis proyectos y contribuciones a la comunidad de código abierto.
