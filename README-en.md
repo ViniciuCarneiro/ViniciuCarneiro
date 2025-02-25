@@ -1,25 +1,25 @@
-# Olá, seja bem-vindo(a) ao meu GitHub! 👋
+# Hello, welcome to my GitHub! 👋
 
-## Quem sou eu?
-Olá, meu nome é **Vinicius Santos Carneiro**. Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade de código aberto.
+## Who am I?
+Hello, my name is **Vinicius Santos Carneiro**. I am a developer passionate about creating innovative and efficient solutions. Here you will find some of my projects and contributions to the open-source community.
 
-Minha missão é transformar desafios em soluções tecnológicas inovadoras, garantindo performance, escalabilidade e segurança para projetos de qualquer porte.
+My mission is to transform challenges into innovative technological solutions, ensuring performance, scalability, and security for projects of any size.
 
-## Informações Pessoais
-- **Data de nascimento:** 15/02/2001 (23 anos)
+## Personal Information
+- **Date of Birth:** 15/02/2001 (24 years old)
 - **Email:** [viniciucarneiro@gmail.com](mailto:viniciucarneiro@gmail.com)
 - **WhatsApp:** +55 (62) 9968465
-- **Localização:** Goiânia, Goiás, Brasil
-- **Idiomas:**
-  - 🇧🇷 Português – Nativo
-  - 🇺🇸 Inglês – Básico (A2)
-  - 🇪🇸 Espanhol – Básico (A2)
+- **Location:** Goiânia, Goiás, Brazil
+- **Languages:**
+  - 🇧🇷 Portuguese – Native
+  - 🇺🇸 English – Basic (A2)
+  - 🇪🇸 Spanish – Basic (A2)
 
 ---
 
-## Tecnologias que Utilizo
+## Technologies I Use
 
-### Linguagens e Frameworks
+### Languages and Frameworks
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -28,7 +28,7 @@ Minha missão é transformar desafios em soluções tecnológicas inovadoras, ga
 [![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://angularjs.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-### Ferramentas e Plataformas
+### Tools and Platforms
 [![Amazon Web Services](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -37,32 +37,32 @@ Minha missão é transformar desafios em soluções tecnológicas inovadoras, ga
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-### Bancos de Dados
+### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
-### Outras Tecnologias
+### Other Technologies
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciuCarneiro&layout=compact&bg_color=transparent)
 
 ---
 
-## Projetos de Destaque
+## Highlighted Projects
 
-Confira alguns dos meus projetos favoritos:
+Check out some of my favorite projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciuCarneiro&repo=secure-connect-api)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ViniciuCarneiro/secure-connect-api))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciuCarneiro&repo=secure-connect-api)](https://github.com/ViniciuCarneiro/secure-connect-api)
 
 ---
 
-## Contato
-Sinta-se à vontade para me contatar através das redes sociais:
+## Contact
+Feel free to reach out to me through social media:
 
 - [LinkedIn](https://www.linkedin.com/in/vinicius-santos-carneiro/)
 
