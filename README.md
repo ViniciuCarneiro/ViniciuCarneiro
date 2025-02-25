@@ -10,7 +10,7 @@ Minha missão é transformar desafios em soluções tecnológicas inovadoras, ga
 ### Informações Pessoais
 
 - **Data de nascimento:** 15/02/2001 (23 anos)
-- **Email:** [viniciuscarneiro@nested.com.br](mailto:viniciuscarneiro@nested.com.br)
+- **Email:** [viniciucarneiro@gmail.com](mailto:viniciucarneiro@gmail.com)
 - **WhatsApp:** +55 (62) 9968465
 - **Localização:** Goiânia, Goiás, Brasil
 - **Idiomas:**
@@ -19,6 +19,8 @@ Minha missão é transformar desafios em soluções tecnológicas inovadoras, ga
   - 🇪🇸 Espanhol – Básico (A2)
 
 ---
+
+![Seus GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciuCarneiro&show_icons=true&theme=radical)
 
 ## English
 
