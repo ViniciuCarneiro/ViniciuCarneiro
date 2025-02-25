@@ -61,6 +61,7 @@ Check out some of my favorite projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciuCarneiro&repo=secure-connect-api)](https://github.com/ViniciuCarneiro/secure-connect-api)
 
+
 ---
 
 ## Contact
