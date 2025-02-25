@@ -1,3 +1,5 @@
+[English Version](README.en.md)
+
 # Olá, seja bem-vindo(a) ao meu GitHub! 👋
 
 ## Quem sou eu?
