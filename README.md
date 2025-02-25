@@ -59,7 +59,8 @@ Minha missão é transformar desafios em soluções tecnológicas inovadoras, ga
 
 Confira alguns dos meus projetos favoritos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciuCarneiro&repo=secure-connect-api)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ViniciuCarneiro/secure-connect-api))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciuCarneiro&repo=secure-connect-api)](https://github.com/ViniciuCarneiro/secure-connect-api)
+
 
 ---
 
