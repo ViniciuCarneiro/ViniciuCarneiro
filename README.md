@@ -8,7 +8,7 @@ Olá, meu nome é **Vinicius Santos Carneiro**. Sou um desenvolvedor apaixonado 
 Minha missão é transformar desafios em soluções tecnológicas inovadoras, garantindo performance, escalabilidade e segurança para projetos de qualquer porte.
 
 ## Informações Pessoais
-- **Data de nascimento:** 15/02/2001 (23 anos)
+- **Data de nascimento:** 15/02/2001 (24 anos)
 - **Email:** [viniciucarneiro@gmail.com](mailto:viniciucarneiro@gmail.com)
 - **WhatsApp:** +55 (62) 9968465
 - **Localização:** Goiânia, Goiás, Brasil
